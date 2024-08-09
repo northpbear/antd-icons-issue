@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "app": "pnpm --filter main-app"
+  }
+}
